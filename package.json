@@ -1,0 +1,15 @@
+{
+  "name": "talon-league",
+  "version": "1.0.0",
+  "description": "Talon League Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "pg": "^8.13.1"
+  }
+}
